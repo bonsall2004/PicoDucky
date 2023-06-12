@@ -1,5 +1,6 @@
 
-# Pico W Ducky
+# Pico W Ducky 
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) 
 
 Pico Ducky is a CircuitPython Pico W program that allows you to turn your regular old Pico W into a full working advanced hacking tool just with a few drag and drop actions
 
@@ -127,6 +128,28 @@ These are all acceptable characters
 - PRINT <string> - Prints to the python COM console
 - [DEFAULT_DELAY | DEFAULTDELAY] - Runs an Asynchronous Delay for the default time (can be changed in the config.json)
 - IMPORT <script> - Imports and runs other scripts (make sure you put ./scripts infront the name)
+## Features
+
+- Remotely Edit Payloads
+- WiFi Enabled
+- Undetectable by Windows, Mac and Linux
+- Easily Modifiable
+
+## Authors
+
+- [@bonsall2004](https://www.github.com/bonsall2004)
+
+
+## Feedback
+
+If you have any feedback, please make a [Github Issue](https://github.com/bonsall2004/PicoDucky/issues) and I'll look into it.
+
+
 ## Acknowledgements
 
  - [Dbisu's duckyinpython.py (with modifications)](https://github.com/dbisu/)
+
+## License
+
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
