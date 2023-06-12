@@ -1,0 +1,7 @@
+REM The next four lines open Notepad in Windows and type %25252525252522Hello World%25252525252521%25252525252522
+GUI r 
+DELAY 100
+STRING cmd
+ENTER
+DELAY 100
+STRING ipconfig && pause
