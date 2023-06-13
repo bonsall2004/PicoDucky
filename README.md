@@ -135,15 +135,13 @@ These are all acceptable characters
 - Undetectable by Windows, Mac and Linux
 - Easily Modifiable
 
-## Authors
-
-- [@bonsall2004](https://www.github.com/bonsall2004)
-
-
 ## Feedback
 
 If you have any feedback, please make a [Github Issue](https://github.com/bonsall2004/PicoDucky/issues) and I'll look into it.
+ 
+ ## Authors
 
+- [@bonsall2004](https://www.github.com/bonsall2004)
 
 ## Acknowledgements
 
